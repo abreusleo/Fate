@@ -39,3 +39,7 @@ luac.out
 *.x86_64
 *.hex
 
+server-data/cache/
+server-data/citizen/
+server-data/crashes/
+txData/
